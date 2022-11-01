@@ -15,7 +15,7 @@
     "socket.io": "~2.0.3"
   },
   "devDependencies": {
-    "gulp": "~3.9.1",
+    "gulp": "~4.0.2",
     "gulp-typescript": "~3.2.1",
     "typescript": "~2.5.0"
   }
